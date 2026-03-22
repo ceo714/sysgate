@@ -1,6 +1,6 @@
 # sysgate
 
-![](sysgate-preview.png)
+![](sysgate-preview-ru.png)
 
 **Проверяет твой сервер и говорит что сломано — с готовыми командами для исправления.**
 
@@ -108,6 +108,8 @@ MIT
 ---
 
 ## EN — English Documentation
+
+![](sysgate-preview-en.png)
 
 **Checks your server and tells you what is broken — with ready-to-run fix commands.**
 
